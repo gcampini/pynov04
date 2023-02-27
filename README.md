@@ -15,3 +15,6 @@ Combien de liens menant vers d'autres articles Wikipédia (*/wiki/*) au sein de 
 
    Créer un fichier csv representant ces données.
 
+3. UTILISER selenium \
+   Télécharger les **images seulement** des 2 premières pages du catalogue https://www.zalando.fr/chaussures-homme/. \
+   Supprimer les photos non standards (mettant en scène des humains par exemple).
