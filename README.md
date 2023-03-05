@@ -19,3 +19,7 @@ Combien de liens menant vers d'autres articles Wikipédia (*/wiki/*) au sein de 
 3. UTILISER selenium \
    Télécharger les **images seulement** des 2 premières pages du catalogue https://www.zalando.fr/chaussures-homme/. \
    Supprimer les photos non standards (mettant en scène des humains par exemple).
+
+
+4. Récupérer les informations météo actuelles (https://open-meteo.com/) à Aix. \
+   Donner les minimales et maximales de températures et quand elles interviennent.
